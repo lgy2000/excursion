@@ -26,6 +26,10 @@ p{
     color: gray;
 }
 
+video{
+    color: white;
+}
+
 footer p{
     text-align: right;
 }
