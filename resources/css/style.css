@@ -1,35 +1,34 @@
-html{
-    background-color: black;
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+html {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-h1{
-    font-size: 50px;
-    color: white;
-    font-weight: normal;
-}
-
-nav a{
-    color: aquamarine;
-    font-size: 16px;
+h1 {
+  font-size: 50px;
+  color: white;
+  font-weight: normal;
 }
 
-h2{
-    font-size: 42px;
-    color: white;
-    font-weight: 300;
+nav a {
+  color: aquamarine;
+  font-size: 16px;
 }
 
-p{
-    font-size: 21px;
-    color: gray;
+h2 {
+  font-size: 42px;
+  color: white;
+  font-weight: 300;
 }
 
-video{
-    color: white;
+p {
+  font-size: 21px;
+  color: gray;
 }
 
-footer p{
-    text-align: right;
+video {
+  color: white;
+}
+
+footer p {
+  text-align: right;
 }

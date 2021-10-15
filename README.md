@@ -1,6 +1,6 @@
 # Excursion
 
-This webpage project is to advertise a product called “Excursion” and is build with HTML and CSS. 
+This webpage project is to advertise a product called “Excursion” and is build with HTML and CSS.
 
 ## Technologies
 
